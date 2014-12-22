@@ -5,3 +5,4 @@ Git tracks changes
 remote test
 Creating a new branch is quick AND simple
 dev branch add
+stash test
